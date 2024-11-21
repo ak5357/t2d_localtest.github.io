@@ -1,0 +1,10 @@
+name: "TEST"
+output_dir: "."
+navbar:
+  title: "Test Website"
+  right:
+    - text: "About"
+      href: about.html
+output:
+  html_document:
+    theme: cerulean

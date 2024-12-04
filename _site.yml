@@ -1,10 +1,10 @@
-name: "TEST"
+name: "Defining Diabetes"
 output_dir: "."
 navbar:
-  title: "Test Website"
+  title: "Defining Diabetes"
   right:
     - text: "About"
       href: about.html
 output:
   html_document:
-    theme: cerulean
+    theme: cosmo
